@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# SINYAL RF
+ialah komponen  yang  dapat  mendeteksi sinyal gelombang elektromagnetik yang digunakan oleh sistem komunikasi untuk mengirim informasi melalui udara dari satu titik ke titik lainnya yang merambat di antara antena pemancar pengirim dan penerima. Sinyal gelombang elektromagnetik yang dipancarkan melalui antena memiliki amplitudo, frekuensi, interval,dan mempunyai sifat-sifat yang dapat berubah-ubah setiap saat untuk mempersentasikan informasi.
+Radio  Frekuensi  mempunyai  2  perangkat  elektronik  untuk  mengirimkan sinyal  gelombang  elektromagnetik yang  terdapat pada  perangkattransmitterdan kemudian   untuk   menerima   sinyal   gelombang   elektromagnetik   tersebut yang terdapatpada  perangkat receiver.  
 
-You can use the [editor on GitHub](https://github.com/mhdridhonst/tugas-3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# INFRARED
+Infrared adalah radiasi elektromagnetik dari panjang gelombang lebih panjang dari cahaya tampak, tetapi lebih pendek dari radiasi gelombang radio. yakni  0,7  mikro  m  sampai  dengan  1milimeter.  Sinar  infra  merah memiliki  jangkauan  frekuensi  1011  Hz  sampai  1014  Hz  atau  daerah panjang  gelombang  10-4  cm.  Sedangkan  Gelombang  Infra  merah  dekat (near  infrared)  memiliki  panjang  gelombang  sekitar  0,7  mikro  m  sampai dengan  2,5  mikro  meter.yaitu  Sinar  Infra  Merah  sebelum  dipakai  pada ponsel  sebagai  alat  transmisi  data,  teknologi  ini  digunakan  dalam Remote TV atau berbagai Remote lainnya.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# BLUETOOTH
+adalah  suatu  peralatan  media  komunikasi  yang  dapat digunakan  untuk  menghubungkan  sebuah  perangkat  komunikasi  dengan perangkat    komunikasi    lainnya,    bluetooth    umumnya    digunakan di handphone, komputer atau pc, tablet, dan lain-lain. Fungsi bluetooth yaitu untuk mempermudah berbagi atau sharing file,   audio,   menggantikan penggunaan  kabel  dan  lain-lain.  Saat  inisudah  banyak  sekali  perangkat yang menggunakan bluetooth.Teknologi    BlueTooth    ini    merupakan modifikasi dari Frekuensi Radio,berbeda dengan Infra Red yang menggunakan medium cahaya. BlueTooth   ini   merupakan   teknologi wireless  standard  pada  ponsel  yang  berfungsi untuk pertukaran data dari jarak dekat menggunakan frekuensi radio sebesar 2,4Ghz.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mhdridhonst/tugas-3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# WIFI
+adalah singkatan dari “Wireless Fidelity” yaitu suatu teknologi komunikasi nirkabel yang memanfaatkan gelombang radio untuk menghubungkan dua perangkat atau lebih untuk dapat saling bertukar informasi. Wifi  memiliki jangkauan   yang   jauh   lebih   luas   dibanding   WPAN.   Saat   ini   WLAN mengalami  banyak  peningkatan  dari  segi  kecepatan  dan  luas  cakupannya. Awalnya  WLAN  ditujukan  untuk  penggunaan  perangkat  jaringan  lokal, namun saat ini lebih banyak digunakan untuk mengakses internet.
